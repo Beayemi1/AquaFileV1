@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522224904931",
+    "project_id": "aquafilev2",
+    "storage_bucket": "aquafilev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522224904931:android:e1b03ae53cb3708a8073d6",
+        "android_client_info": {
+          "package_name": "com.aquafile.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZs2p6rGK_IsUFKeV_5aqyuPwAuN0bZ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
